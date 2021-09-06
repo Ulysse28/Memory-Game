@@ -5,6 +5,10 @@ By Ulysse Valdenaire
 21/08/20251
 */
 
+
+body{
+    background:rgb(20, 28, 100);
+}
 h1{
     text-align: center;
     font-size:40px;
